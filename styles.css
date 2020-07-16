@@ -1,0 +1,75 @@
+.arr-element {
+  width: 50px;
+  height: 50px;
+  background-color: turquoise;
+  text-align: center;
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 20px;
+  font-size: 1.5rem;
+}
+
+.red{
+    background-color: red !important;
+}
+
+.green{
+    background-color: green !important;
+    width: 60px !important;
+    height: 60px !important;
+}
+
+.form-group{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form-control{
+    margin-bottom: 20px;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.display-4{
+    text-decoration: underline;
+}
+
+.main{
+    margin: 0 auto !important;
+    padding: 0;
+}
+
+.turquoiseL{
+    background-color: turquoise;
+    width: 30px;
+    height: 30px;
+    margin: 10px auto;
+}
+
+.redL{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    margin: 10px auto;
+}
+
+.greenL{
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    margin: 10px auto;
+}
+
+td{
+    width: 15%;
+    text-align: center;
+}
+
+.legend{
+    margin: 0 auto;
+    width: fit-content;
+}
+
